@@ -1067,3 +1067,5 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129001928,Int_MultiDroneControl_Xeno_Size3_Class4,internal,Xeno Multi Limpet Controller,,,,3,B,
 129001929,Int_MultiDroneControl_Universal_Size7_Class3,internal,Universal Multi Limpet Controller,,,,7,C,
 129001930,Int_MultiDroneControl_Universal_Size7_Class5,internal,Universal Multi Limpet Controller,,,,7,A,
+,Int_CorrosionProofCargoRack_Size5_Class1,internal,Corrosion Resistant Cargo Rack,,,,5,E,ELITE_HORIZONS_V_CORROSIONCARGO_SIZE5
+,Int_CorrosionProofCargoRack_Size6_Class1,internal,Corrosion Resistant Cargo Rack,,,,6,E,ELITE_HORIZONS_V_CORROSIONCARGO_SIZE6
