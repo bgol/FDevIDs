@@ -834,8 +834,8 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128672292,Int_BuggyBay_Size6_Class1,internal,Planetary Vehicle Hangar,,,,6,H,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128672293,Int_BuggyBay_Size6_Class2,internal,Planetary Vehicle Hangar,,,,6,G,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128672317,Int_PlanetApproachSuite,internal,Planetary Approach Suite,,,,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128681641,Int_CorrosionProofCargoRack_Size1_Class1,internal,Corrosion Resistant Cargo Rack,,,,1,E,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-128681992,Int_CorrosionProofCargoRack_Size1_Class2,internal,Corrosion Resistant Cargo Rack,,,,1,F,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128681641,Int_CorrosionProofCargoRack_Size1_Class1,internal,Anti-Corrosion Cargo Rack,,,,1,E,ELITE_HORIZONS_V_PLANETARY_LANDINGS
+128681992,Int_CorrosionProofCargoRack_Size1_Class2,internal,Anti-Corrosion Cargo Rack,,,,1,F,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128681994,Hpt_BeamLaser_Gimbal_Huge,hardpoint,Beam Laser,Gimballed,,,4,A,
 128681995,Hpt_PulseLaser_Gimbal_Huge,hardpoint,Pulse Laser,Gimballed,,,4,A,
 128681996,Hpt_MultiCannon_Gimbal_Huge,hardpoint,Multi-Cannon,Gimballed,,,4,A,
@@ -946,7 +946,7 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128816593,TypeX_3_Armour_Mirrored,standard,Mirrored Surface Composite,,,Alliance Challenger,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128816594,TypeX_3_Armour_Reactive,standard,Reactive Surface Composite,,,Alliance Challenger,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 128833687,Hpt_Guardian_GaussCannon_Fixed_Medium,hardpoint,Guardian Gauss Cannon,Fixed,,,2,B,ELITE_HORIZONS_V_GUARDIAN_GAUSS_FIXED_MEDIUM
-128833944,Int_CorrosionProofCargoRack_Size4_Class1,internal,Corrosion Resistant Cargo Rack,,,,4,E,ELITE_HORIZONS_V_CORROSIONCARGO_SIZE4
+128833944,Int_CorrosionProofCargoRack_Size4_Class1,internal,Anti-Corrosion Cargo Rack,,,,4,E,ELITE_HORIZONS_V_CORROSIONCARGO_SIZE4
 128833945,Int_GuardianHullReinforcement_Size1_Class1,internal,Guardian Hull Reinforcement,,,,1,E,ELITE_HORIZONS_V_GUARDIAN_HULLREINFORCEMENT
 128833946,Int_GuardianHullReinforcement_Size1_Class2,internal,Guardian Hull Reinforcement,,,,1,D,ELITE_HORIZONS_V_GUARDIAN_HULLREINFORCEMENT
 128833947,Int_GuardianHullReinforcement_Size2_Class1,internal,Guardian Hull Reinforcement,,,,2,E,ELITE_HORIZONS_V_GUARDIAN_HULLREINFORCEMENT
@@ -1056,6 +1056,8 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128935981,Hpt_MultiCannon_Fixed_Small_Advanced,hardpoint,Advanced Multi-Cannon,Fixed,,,1,F,
 128935982,Hpt_DumbfireMissileRack_Fixed_Small_Advanced,hardpoint,Advanced Missile Rack,Fixed,Dumbfire,,1,B,
 128935983,Hpt_DumbfireMissileRack_Fixed_Medium_Advanced,hardpoint,Advanced Missile Rack,Fixed,Dumbfire,,2,B,
+128957069,Int_CorrosionProofCargoRack_Size5_Class1,internal,Anti-Corrosion Cargo Rack,,,,5,E,ELITE_HORIZONS_V_CORROSIONCARGO_SIZE5
+?,Int_CorrosionProofCargoRack_Size6_Class1,internal,Anti-Corrosion Cargo Rack,,,,6,E,ELITE_HORIZONS_V_CORROSIONCARGO_SIZE6
 128975719,Int_PlanetApproachSuite_Advanced,internal,Advanced Planetary Approach Suite,,,,1,I,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 129001921,Int_MultiDroneControl_Mining_Size3_Class1,internal,Mining Multi Limpet Controller,,,,3,E,
 129001922,Int_MultiDroneControl_Mining_Size3_Class3,internal,Mining Multi Limpet Controller,,,,3,C,
@@ -1082,5 +1084,3 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129022089,Hpt_ATMultiCannon_Gimbal_Medium,hardpoint,Enhanced AX Multi-Cannon,Gimballed,,,2,E,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 129022663,Hpt_AntiUnknownShutdown_Tiny_V2,utility,Thargoid Pulse Neutraliser,,,,0,E,?
 129022952,Hpt_XenoScanner_Advanced_Tiny,utility,Pulse Wave Xeno Scanner,,,,0,C,
-,Int_CorrosionProofCargoRack_Size5_Class1,internal,Corrosion Resistant Cargo Rack,,,,5,E,ELITE_HORIZONS_V_CORROSIONCARGO_SIZE5
-,Int_CorrosionProofCargoRack_Size6_Class1,internal,Corrosion Resistant Cargo Rack,,,,6,E,ELITE_HORIZONS_V_CORROSIONCARGO_SIZE6
