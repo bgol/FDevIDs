@@ -761,14 +761,14 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128671288,Int_DroneControl_Prospector_Size7_Class5,internal,Prospector Limpet Controller,,,,7,A,
 128671321,Hpt_Slugshot_Gimbal_Large,hardpoint,Fragment Cannon,Gimballed,,,3,C,
 128671322,Hpt_Slugshot_Turret_Large,hardpoint,Fragment Cannon,Turreted,,,3,C,
-128671323,Int_ShieldGenerator_Size1_Class5_Strong,internal,Prismatic Shield Generator,,,,1,A,ELITE_SPECIFIC_V_POWER_100000
-128671324,Int_ShieldGenerator_Size2_Class5_Strong,internal,Prismatic Shield Generator,,,,2,A,ELITE_SPECIFIC_V_POWER_100000
-128671325,Int_ShieldGenerator_Size3_Class5_Strong,internal,Prismatic Shield Generator,,,,3,A,ELITE_SPECIFIC_V_POWER_100000
-128671326,Int_ShieldGenerator_Size4_Class5_Strong,internal,Prismatic Shield Generator,,,,4,A,ELITE_SPECIFIC_V_POWER_100000
-128671327,Int_ShieldGenerator_Size5_Class5_Strong,internal,Prismatic Shield Generator,,,,5,A,ELITE_SPECIFIC_V_POWER_100000
-128671328,Int_ShieldGenerator_Size6_Class5_Strong,internal,Prismatic Shield Generator,,,,6,A,ELITE_SPECIFIC_V_POWER_100000
-128671329,Int_ShieldGenerator_Size7_Class5_Strong,internal,Prismatic Shield Generator,,,,7,A,ELITE_SPECIFIC_V_POWER_100000
-128671330,Int_ShieldGenerator_Size8_Class5_Strong,internal,Prismatic Shield Generator,,,,8,A,ELITE_SPECIFIC_V_POWER_100000
+128671323,Int_ShieldGenerator_Size1_Class5_Strong,internal,Prismatic Shield Generator,,,,1,A,ELITE_SPECIFIC_V_POWER_200020
+128671324,Int_ShieldGenerator_Size2_Class5_Strong,internal,Prismatic Shield Generator,,,,2,A,ELITE_SPECIFIC_V_POWER_200020
+128671325,Int_ShieldGenerator_Size3_Class5_Strong,internal,Prismatic Shield Generator,,,,3,A,ELITE_SPECIFIC_V_POWER_200020
+128671326,Int_ShieldGenerator_Size4_Class5_Strong,internal,Prismatic Shield Generator,,,,4,A,ELITE_SPECIFIC_V_POWER_200020
+128671327,Int_ShieldGenerator_Size5_Class5_Strong,internal,Prismatic Shield Generator,,,,5,A,ELITE_SPECIFIC_V_POWER_200020
+128671328,Int_ShieldGenerator_Size6_Class5_Strong,internal,Prismatic Shield Generator,,,,6,A,ELITE_SPECIFIC_V_POWER_200020
+128671329,Int_ShieldGenerator_Size7_Class5_Strong,internal,Prismatic Shield Generator,,,,7,A,ELITE_SPECIFIC_V_POWER_200020
+128671330,Int_ShieldGenerator_Size8_Class5_Strong,internal,Prismatic Shield Generator,,,,8,A,ELITE_SPECIFIC_V_POWER_200020
 128671331,Int_ShieldGenerator_Size1_Class3_Fast,internal,Bi-Weave Shield Generator,,,,1,C,
 128671332,Int_ShieldGenerator_Size2_Class3_Fast,internal,Bi-Weave Shield Generator,,,,2,C,
 128671333,Int_ShieldGenerator_Size3_Class3_Fast,internal,Bi-Weave Shield Generator,,,,3,C,
@@ -777,14 +777,14 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 128671336,Int_ShieldGenerator_Size6_Class3_Fast,internal,Bi-Weave Shield Generator,,,,6,C,
 128671337,Int_ShieldGenerator_Size7_Class3_Fast,internal,Bi-Weave Shield Generator,,,,7,C,
 128671338,Int_ShieldGenerator_Size8_Class3_Fast,internal,Bi-Weave Shield Generator,,,,8,C,
-128671339,Hpt_PlasmaAccelerator_Fixed_Large_Advanced,hardpoint,Advanced Plasma Accelerator,Fixed,,,3,B,ELITE_SPECIFIC_V_POWER_100050
-128671340,Hpt_MiningLaser_Fixed_Small_Advanced,hardpoint,Mining Lance,Fixed,,,1,D,ELITE_SPECIFIC_V_POWER_100080
-128671341,Hpt_Railgun_Fixed_Medium_Burst,hardpoint,Imperial Hammer Rail Gun,Fixed,,,2,B,ELITE_SPECIFIC_V_POWER_100020
+128671339,Hpt_PlasmaAccelerator_Fixed_Large_Advanced,hardpoint,Advanced Plasma Accelerator,Fixed,,,3,B,ELITE_SPECIFIC_V_POWER_200050
+128671340,Hpt_MiningLaser_Fixed_Small_Advanced,hardpoint,Mining Lance,Fixed,,,1,D,ELITE_SPECIFIC_V_POWER_200120
+128671341,Hpt_Railgun_Fixed_Medium_Burst,hardpoint,Imperial Hammer Rail Gun,Fixed,,,2,B,ELITE_SPECIFIC_V_POWER_200010
 128671342,Hpt_PulseLaser_Fixed_Medium_Disruptor,hardpoint,Pulse Disruptor Laser,Fixed,,,2,E,ELITE_SPECIFIC_V_POWER_100040
 128671343,Hpt_Slugshot_Fixed_Large_Range,hardpoint,Pacifier Frag-Cannon,Fixed,,,3,C,ELITE_SPECIFIC_V_POWER_100060
-128671344,Hpt_DrunkMissileRack_Fixed_Medium,hardpoint,Pack-Hound Missile Rack,Fixed,Swarm,,2,B,ELITE_SPECIFIC_V_POWER_100070
-128671345,Hpt_MultiCannon_Fixed_Small_Strong,hardpoint,Enforcer Cannon,Fixed,,,1,F,ELITE_SPECIFIC_V_POWER_100090
-128671346,Hpt_BeamLaser_Fixed_Small_Heat,hardpoint,Retributor Beam Laser,Fixed,,,1,E,ELITE_SPECIFIC_V_POWER_100010
+128671344,Hpt_DrunkMissileRack_Fixed_Medium,hardpoint,Pack-Hound Missile Rack,Fixed,Swarm,,2,B,ELITE_SPECIFIC_V_POWER_200080
+128671345,Hpt_MultiCannon_Fixed_Small_Strong,hardpoint,Enforcer Cannon,Fixed,,,1,F,ELITE_SPECIFIC_V_POWER_200090
+128671346,Hpt_BeamLaser_Fixed_Small_Heat,hardpoint,Retributor Beam Laser,Fixed,,,1,E,ELITE_SPECIFIC_V_POWER_200060
 128671448,Hpt_MineLauncher_Fixed_Small_Impulse,hardpoint,Shock Mine Launcher,Fixed,,,1,I,
 128671449,Hpt_PulseLaserBurst_Fixed_Small_Scatter,hardpoint,Cytoscrambler Burst Laser,Fixed,,,1,F,ELITE_SPECIFIC_V_POWER_100100
 128671832,DiamondBackXL_Armour_Grade1,standard,Lightweight Alloy,,,Diamondback Explorer,1,I,
@@ -1069,7 +1069,7 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129001930,Int_MultiDroneControl_Universal_Size7_Class5,internal,Universal Multi Limpet Controller,,,,7,A,
 129019260,Int_ExpModuleStabiliser_Size3_Class3,internal,Experimental Weapon Stabiliser,,,,3,F,
 129019261,Int_ExpModuleStabiliser_Size5_Class3,internal,Experimental Weapon Stabiliser,,,,5,F,ELITE_HORIZONS_V_EXPERIMENTALSTABILISER_SIZE5
-129019262,Hpt_CausticSinkLauncher_Turret_Tiny,utility,Caustic Sink Launcher,,,,0,I,?
+129019262,Hpt_CausticSinkLauncher_Turret_Tiny,utility,Caustic Sink Launcher,,,,0,I,
 129022079,Hpt_ATDumbfireMissile_Fixed_Large_V2,hardpoint,Enhanced AX Missile Rack,Fixed,Dumbfire,,3,B,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 129022080,Hpt_ATMultiCannon_Fixed_Medium_V2,hardpoint,Enhanced AX Multi-Cannon,Fixed,,,2,D,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 129022081,Hpt_ATDumbfireMissile_Fixed_Medium_V2,hardpoint,Enhanced AX Missile Rack,Fixed,Dumbfire,,2,D,ELITE_HORIZONS_V_PLANETARY_LANDINGS
@@ -1080,28 +1080,28 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129022086,Hpt_ATMultiCannon_Turret_Medium_V2,hardpoint,Enhanced AX Multi-Cannon,Turreted,,,2,E,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 129022088,Hpt_ATMultiCannon_Gimbal_Large,hardpoint,Enhanced AX Multi-Cannon,Gimballed,,,3,C,ELITE_HORIZONS_V_PLANETARY_LANDINGS
 129022089,Hpt_ATMultiCannon_Gimbal_Medium,hardpoint,Enhanced AX Multi-Cannon,Gimballed,,,2,E,ELITE_HORIZONS_V_PLANETARY_LANDINGS
-129022663,Hpt_AntiUnknownShutdown_Tiny_V2,utility,Thargoid Pulse Neutraliser,,,,0,E,?
+129022663,Hpt_AntiUnknownShutdown_Tiny_V2,utility,Thargoid Pulse Neutraliser,,,,0,E,
 129022952,Hpt_XenoScanner_Advanced_Tiny,utility,Pulse Wave Xeno Scanner,,,,0,C,
 129028577,Hpt_Human_Extraction_Fixed_Medium,hardpoint,Sub-Surface Extraction Missile,Fixed,Seeker,,2,B,
 129030049,Hpt_ATVentDisruptorPylon_Fixed_Medium,hardpoint,Guardian Nanite Torpedo Pylon,Fixed,,,2,I,
 129030050,Hpt_ATVentDisruptorPylon_Fixed_Large,hardpoint,Guardian Nanite Torpedo Pylon,Fixed,,,3,I,
 129030051,Hpt_Cannon_Gimbal_Medium_Burst,hardpoint,Concord Cannon,Gimballed,,,2,D,ELITE_SPECIFIC_V_POWER_200130
-129030466,Python_NX_Armour_Grade1,standard,Lightweight Alloy,,,Python Mk II,1,I,
-129030467,Python_NX_Armour_Grade2,standard,Reinforced Alloy,,,Python Mk II,1,I,
-129030468,Python_NX_Armour_Grade3,standard,Military Grade Composite,,,Python Mk II,1,I,
-129030469,Python_NX_Armour_Mirrored,standard,Mirrored Surface Composite,,,Python Mk II,1,I,
-129030470,Python_NX_Armour_Reactive,standard,Reactive Surface Composite,,,Python Mk II,1,I,
+129030466,Python_NX_Armour_Grade1,standard,Lightweight Alloy,,,Python Mk II,1,I,ELITE_V_PYTHON_NX
+129030467,Python_NX_Armour_Grade2,standard,Reinforced Alloy,,,Python Mk II,1,I,ELITE_V_PYTHON_NX
+129030468,Python_NX_Armour_Grade3,standard,Military Grade Composite,,,Python Mk II,1,I,ELITE_V_PYTHON_NX
+129030469,Python_NX_Armour_Mirrored,standard,Mirrored Surface Composite,,,Python Mk II,1,I,ELITE_V_PYTHON_NX
+129030470,Python_NX_Armour_Reactive,standard,Reactive Surface Composite,,,Python Mk II,1,I,ELITE_V_PYTHON_NX
 129030474,Int_Hyperdrive_Overcharge_Size5_Class3,standard,Frame Shift Drive (SCO),,,,5,C,
 129030483,Int_Hyperdrive_Overcharge_Size7_Class3,standard,Frame Shift Drive (SCO),,,,7,C,
 129030484,Int_Hyperdrive_Overcharge_Size6_Class3,standard,Frame Shift Drive (SCO),,,,6,C,
 129030485,Int_Hyperdrive_Overcharge_Size4_Class3,standard,Frame Shift Drive (SCO),,,,4,C,
 129030486,Int_Hyperdrive_Overcharge_Size3_Class3,standard,Frame Shift Drive (SCO),,,,3,C,
 129030487,Int_Hyperdrive_Overcharge_Size2_Class3,standard,Frame Shift Drive (SCO),,,,2,C,
-129030535,Type8_Armour_Grade1,standard,Lightweight Alloy,,,Type-8 Transporter,1,I,
-129030536,Type8_Armour_Grade2,standard,Reinforced Alloy,,,Type-8 Transporter,1,I,
-129030537,Type8_Armour_Grade3,standard,Military Grade Composite,,,Type-8 Transporter,1,I,
-129030538,Type8_Armour_Mirrored,standard,Mirrored Surface Composite,,,Type-8 Transporter,1,I,
-129030539,Type8_Armour_Reactive,standard,Reactive Surface Composite,,,Type-8 Transporter,1,I,
+129030535,Type8_Armour_Grade1,standard,Lightweight Alloy,,,Type-8 Transporter,1,I,ELITE_V_TYPE8
+129030536,Type8_Armour_Grade2,standard,Reinforced Alloy,,,Type-8 Transporter,1,I,ELITE_V_TYPE8
+129030537,Type8_Armour_Grade3,standard,Military Grade Composite,,,Type-8 Transporter,1,I,ELITE_V_TYPE8
+129030538,Type8_Armour_Mirrored,standard,Mirrored Surface Composite,,,Type-8 Transporter,1,I,ELITE_V_TYPE8
+129030539,Type8_Armour_Reactive,standard,Reactive Surface Composite,,,Type-8 Transporter,1,I,ELITE_V_TYPE8
 129030577,Int_Hyperdrive_Overcharge_Size2_Class1,standard,Frame Shift Drive (SCO),,,,2,E,
 129030578,Int_Hyperdrive_Overcharge_Size2_Class2,standard,Frame Shift Drive (SCO),,,,2,D,
 129030579,Int_Hyperdrive_Overcharge_Size2_Class4,standard,Frame Shift Drive (SCO),,,,2,B,
@@ -1126,13 +1126,13 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129030598,Int_Hyperdrive_Overcharge_Size7_Class2,standard,Frame Shift Drive (SCO),,,,7,D,
 129030599,Int_Hyperdrive_Overcharge_Size7_Class4,standard,Frame Shift Drive (SCO),,,,7,B,
 129030600,Int_Hyperdrive_Overcharge_Size7_Class5,standard,Frame Shift Drive (SCO),,,,7,A,
-129030681,Mandalay_Armour_Grade1,standard,Lightweight Alloy,,,Mandalay,1,I,
-129030682,Mandalay_Armour_Grade2,standard,Reinforced Alloy,,,Mandalay,1,I,
-129030683,Mandalay_Armour_Grade3,standard,Military Grade Composite,,,Mandalay,1,I,
-129030684,Mandalay_Armour_Mirrored,standard,Mirrored Surface Composite,,,Mandalay,1,I,
-129030685,Mandalay_Armour_Reactive,standard,Reactive Surface Composite,,,Mandalay,1,I,
-129031231,CobraMkV_Armour_Grade1,standard,Lightweight Alloy,,,Cobra Mk V,1,I,
-129031232,CobraMkV_Armour_Grade2,standard,Reinforced Alloy,,,Cobra Mk V,1,I,
-129031233,CobraMkV_Armour_Grade3,standard,Military Grade Composite,,,Cobra Mk V,1,I,
-129031234,CobraMkV_Armour_Mirrored,standard,Mirrored Surface Composite,,,Cobra Mk V,1,I,
-129031235,CobraMkV_Armour_Reactive,standard,Reactive Surface Composite,,,Cobra Mk V,1,I,
+129030681,Mandalay_Armour_Grade1,standard,Lightweight Alloy,,,Mandalay,1,I,ELITE_V_MANDALAY
+129030682,Mandalay_Armour_Grade2,standard,Reinforced Alloy,,,Mandalay,1,I,ELITE_V_MANDALAY
+129030683,Mandalay_Armour_Grade3,standard,Military Grade Composite,,,Mandalay,1,I,ELITE_V_MANDALAY
+129030684,Mandalay_Armour_Mirrored,standard,Mirrored Surface Composite,,,Mandalay,1,I,ELITE_V_MANDALAY
+129030685,Mandalay_Armour_Reactive,standard,Reactive Surface Composite,,,Mandalay,1,I,ELITE_V_MANDALAY
+129031231,CobraMkV_Armour_Grade1,standard,Lightweight Alloy,,,Cobra Mk V,1,I,ELITE_V_COBRA_MKV
+129031232,CobraMkV_Armour_Grade2,standard,Reinforced Alloy,,,Cobra Mk V,1,I,ELITE_V_COBRA_MKV
+129031233,CobraMkV_Armour_Grade3,standard,Military Grade Composite,,,Cobra Mk V,1,I,ELITE_V_COBRA_MKV
+129031234,CobraMkV_Armour_Mirrored,standard,Mirrored Surface Composite,,,Cobra Mk V,1,I,ELITE_V_COBRA_MKV
+129031235,CobraMkV_Armour_Reactive,standard,Reactive Surface Composite,,,Cobra Mk V,1,I,ELITE_V_COBRA_MKV
