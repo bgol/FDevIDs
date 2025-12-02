@@ -1147,7 +1147,7 @@ id,symbol,category,name,mount,guidance,ship,class,rating,entitlement
 129034274,PantherMkII_Armour_Mirrored,standard,Mirrored Surface Composite,,,Panther Clipper Mk II,1,I,ELITE_V_PANTHER_MKII
 129034275,PantherMkII_Armour_Reactive,standard,Reactive Surface Composite,,,Panther Clipper Mk II,1,I,ELITE_V_PANTHER_MKII
 129034963,Int_LargeCargoRack_Size7_Class1,internal,Mk II Cargo Rack,,,,7,D,
-129034964,Int_LargeCargoRack_Size8_class1,internal,Mk II Cargo Rack,,,,8,D,
+129034964,Int_LargeCargoRack_Size8_Class1,internal,Mk II Cargo Rack,,,,8,D,
 129036132,LakonMiner_Armour_Grade1,standard,Lightweight Alloy,,,Type-11 Prospector,1,I,ELITE_V_LAKON_MINER
 129036133,LakonMiner_Armour_Grade2,standard,Reinforced Alloy,,,Type-11 Prospector,1,I,ELITE_V_LAKON_MINER
 129036134,LakonMiner_Armour_Grade3,standard,Military Grade Composite,,,Type-11 Prospector,1,I,ELITE_V_LAKON_MINER
